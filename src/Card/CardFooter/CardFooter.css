@@ -1,0 +1,28 @@
+.footer{
+display: flex;
+align-items: center;
+margin: 20px 0 0 60px;
+}
+
+.social-icons{
+display: flex;
+justify-content: space-between;
+width: 15%;
+font-size: 12px;
+}
+
+.comment-icon{
+    color:#9c9c9c;
+}
+
+.share-icon{
+    color:#44c112;
+}
+
+.like-icon{
+    color:red;
+}
+
+.message-icon{
+    color:#3fafaf;
+}

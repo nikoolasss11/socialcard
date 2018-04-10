@@ -1,0 +1,32 @@
+.main-content{
+    margin-left: 60px;
+    display: flex;
+    align-items: center;
+}
+
+.image-container{
+width: 25%;
+    height: 350px;
+    border: 1px solid #e0e0e085;
+    border-radius: 3%;
+}
+
+.main-image{
+    height: 260px;
+    width: 100%;
+    border-radius: 2%;
+}
+
+.image-caption{
+    margin-left: 15px;
+}
+
+.image-caption-title {
+    font-weight: 600;
+    font-size: 15px;
+}
+
+.image-caption-subtitle {
+    font-weight: 300;
+    font-size: 13px;
+}
